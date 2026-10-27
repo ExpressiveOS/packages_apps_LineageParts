@@ -384,13 +384,7 @@
     <string name="contributions_info_msg"><![CDATA[<b>Panustajaid kokku:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Commite kokku:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Viimane uuendus:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Evolution X\'i statistika</string>
-    <string name="anonymous_statistics_summary">Aita Evolution X\'i paremaks teha, lülitades sisse anonüümse statistika raporteerimise</string>
     <string name="anonymous_statistics_warning_title">Teave</string>
-    <string name="anonymous_statistics_warning">Lülitades sisse Evolution X\'i statistika, lubad sa isikustamata teabe saatmist
-        Evolution X\'i arendajatele, et nad saaksid jälgida seadmepõhiselt unikaalseid paigaldusi. Saadetud teabe hulgas on unikaalne identifikaator,
-        mis ei ohusta sinu privaatsust ega isiklikke andmeid. Teave saadetakse igal käivitusel.\n\nEt näha saadetavate andmete näidet, koputa valikul
-andmete eelvaade.</string>
     <string name="enable_reporting_title">Luba raporteerimine</string>
     <string name="preview_data_title">Andmete eelvaade</string>
     <string name="view_stats_title">Vaata statistikat</string>

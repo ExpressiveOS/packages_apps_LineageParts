@@ -426,10 +426,7 @@
     <string name="contributions_info_msg"><![CDATA[<b>סה"כ תורמים:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>סה"כ שינויים:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>עדכון אחרון:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">סטטיסטיקות Evolution X</string>
-    <string name="anonymous_statistics_summary">עזור לשפר את Evolution X על ידי שליחת דיווחי סטטיסטיקות אנונימית</string>
     <string name="anonymous_statistics_warning_title">אודות</string>
-    <string name="anonymous_statistics_warning">הצטרפות לסטטיסטיקות Evolution X תאפשר שליחת מידע לא אישי למפתחי Evolution X על מנת לאתר את מספר ההתקנות היחודיות לכל סוג מכשיר. המידע הנשלח כולל מזהה ייחודי, אשר אינו פוגע בפרטיותך או בנתונים האישיים שלך. המידע נשלח בכל אתחול המכשיר.\n\nכדי לצפות בדוגמה של מידע שנשלח, יש להקיש על הצגת נתונים מקדימה.</string>
     <string name="enable_reporting_title">אפשר דיווח</string>
     <string name="preview_data_title">תצוגה מקדימה של נתונים</string>
     <string name="view_stats_title">הצגת סטטיסטיקה</string>

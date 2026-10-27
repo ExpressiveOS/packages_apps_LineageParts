@@ -375,10 +375,7 @@
 <b>Svi suradnici:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/>
                  <b>Ukupno obveza</b><xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Zadnje ažuriranje</b><xliff:g id="date">%3$s</xliff:g>]]></string>
-    <string name="anonymous_statistics_title">Evolution X statistika</string>
-    <string name="anonymous_statistics_summary">Pomozite nam poboljšati Evolution X slanjem anonimnih statističkih izvješća</string>
     <string name="anonymous_statistics_warning_title">O</string>
-    <string name="anonymous_statistics_warning">Omogućavanjem slanja Evolution X statistike dozvolit će se da se neosobni podaci dostave razvojnom timu Evolution X-a kako bi se pratio broj pojedinačnih instalacija na različite uređaje. Informacije koje se šalju sadrže jedinstvenu identifikaciju koja ne kompromitira privatnost ili osobne podatke. Podaci se šalju pri svakom pokretanju uređaja.\n\nZa primjer podataka koji se šalju, dodirnite pregled podataka.</string>
     <string name="enable_reporting_title">Omogući izvješća</string>
     <string name="preview_data_title">Pretpregled podataka</string>
     <string name="view_stats_title">Vidi statistiku</string>
